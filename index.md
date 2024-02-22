@@ -2,6 +2,6 @@
 title: Mon super site
 ---
 
-<a href="/intro.md">Introduction</a>
-<a href="/conclu.md">Conclusion</a>
+<a href="/monsupersite/intro.md">Introduction</a>
+<a href="/monsupersite/conclu.md">Conclusion</a>
 
